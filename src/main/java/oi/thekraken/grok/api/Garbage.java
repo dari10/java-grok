@@ -124,6 +124,7 @@ public class Garbage {
    *
    * @param map
    * @return nb of renamed items
+   * imsi work
    */
   public int rename(Map<String, Object> map) {
     int item = 0;
